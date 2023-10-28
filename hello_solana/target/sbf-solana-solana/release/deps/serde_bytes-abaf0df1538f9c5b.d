@@ -1,0 +1,11 @@
+/home/kaimatzu/workspaces/sbc-workspace/hello_solana/target/sbf-solana-solana/release/deps/serde_bytes-abaf0df1538f9c5b.rmeta: /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs
+
+/home/kaimatzu/workspaces/sbc-workspace/hello_solana/target/sbf-solana-solana/release/deps/libserde_bytes-abaf0df1538f9c5b.rlib: /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs
+
+/home/kaimatzu/workspaces/sbc-workspace/hello_solana/target/sbf-solana-solana/release/deps/serde_bytes-abaf0df1538f9c5b.d: /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs /home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs
+
+/home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/lib.rs:
+/home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytes.rs:
+/home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/de.rs:
+/home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/ser.rs:
+/home/kaimatzu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.12/src/bytebuf.rs:
